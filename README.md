@@ -18,6 +18,8 @@ through consistent problem solving and optimization-focused thinking.
 - Stack & Queue
 - Dynamic Programming
 - Graphs
+- Trie
+- Binary Index Tree
   etc.
 
 ## 🛠️ Approach
@@ -27,6 +29,8 @@ For each problem:
   
 ## 🚀 Platforms
 - LeetCode
+- Codeforces
+- Codechef
 - GeeksforGeeks
 - coding ninja
 
